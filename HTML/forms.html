@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Form</title>
+    <script>
+        function updateTextInput(val) {
+          document.getElementById('range').innerHTML=val; 
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <form>
+            <fieldset>
+                <legend>Fieldset</legend>
+                <textarea></textarea><br/><br/>
+                <select>
+                    <option>HTML</option>
+                    <option>CSS</option>
+                    <option>Jquery</option>
+                    <option>Javascript</option>
+                </select><br/><br/>
+                Text Box <input type="text" placeholder="TextBox" disabled="true"/><br/><br/>
+                Skills<br/>
+                <input type="checkbox" name="HTML" />HTML<br/>
+                <input type="checkbox" name="CSS" />CSS
+                <br/><br/>
+                Color<br/>
+                <input type="color"/>
+                <br/><br/>
+                Date <input type="date" min="2024-01-31" max="2024-01-01"/><br/><br/>
+                Choose data and time <input type="datetime-local"><br/><br/>
+                Email <input type="email"/><br/><br/>
+                Fieldset  <input type="file" type=".png"/><br/><br/>
+                Hidden <input type="text" hidden="true"/><br/><br/>
+                Month <input type="month"/><br/><br/>
+                Number <input type="number" min="1" max="100"/><br/><br/>
+                Password <input type="password"/><br/><br/>
+                Radio 
+                <input type="radio" name="gender" value="male"/>male
+                <input type="radio" name="gender" />female
+                <br/><br/>
+                Range <input type="range" min="1" max="30" step="3" onchange="updateTextInput(this.value);"/>
+                <label id="range"></label>
+                <br/><br/>
+                Search <input type="search"/>
+                <br/><br/>
+                Telephone <input type="number"/>
+                <br/><br/>
+                Time <input type="time"/>
+                <br/><br/>
+                URL <input type="url"/>
+                <br/><br/>
+                Week <input type="week"/>
+                <br/><br/>
+                <input type="Submit" value="Submit"/>
+                <br/><br/>
+                <input type="reset" value="Reset"/>
+                <br/><br/>
+                <input type="Button" value="Button"/>
+                <br/><br/>
+            </fieldset>
+            
+        </form>
+    </div>
+</body>
+</html>

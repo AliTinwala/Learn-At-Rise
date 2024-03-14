@@ -1,0 +1,16 @@
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.exe
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.deps.json
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.runtimeconfig.json
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.runtimeconfig.dev.json
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.dll
+D:\Documents\Learn At Rise\.Net\DotNet Projects\bin\Debug\net5.0\DotNet Projects.pdb
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.AssemblyInfoInputs.cache
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.AssemblyInfo.cs
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.csproj.CoreCompileInputs.cache
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.sourcelink.json
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.dll
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\refint\DotNet Projects.dll
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.pdb
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\DotNet Projects.genruntimeconfig.cache
+D:\Documents\Learn At Rise\.Net\DotNet Projects\obj\Debug\net5.0\ref\DotNet Projects.dll
