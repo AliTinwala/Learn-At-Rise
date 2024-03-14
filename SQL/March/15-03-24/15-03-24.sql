@@ -6,5 +6,6 @@ create table emptbl
 	EmpName varchar(20),
 	DeptID int not null,
 	TeamID int not null,
-	Process_training
+	Process varchar(20) constraint CHK_Process check( Process in ('Permanent Employee','Training','Probation')),
+
 )
