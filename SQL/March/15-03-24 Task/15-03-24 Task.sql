@@ -103,10 +103,10 @@ select * from TeamTbl;
 select * from EmpTbl;
 select * from EmpHistory;
 
-create or alter proc SPEmployeeManager
+create or alter proc SPEmployeeInsert
 @EmpName varchar(20),
-@DeptID int, 
-@TeamID int, 
+@DeptName varchar(30),
+@TeamName varchar(30), 
 @Probation_status varchar(20), 
 @Job_Title varchar(40),
 @DOJ date, 
@@ -119,6 +119,9 @@ create or alter proc SPEmployeeManager
 @Salary money
 as
 begin
+	declare @DeptID int,@TeamID int
+	set @DeptID = (select DeptID from DeptTbl where DeptName = @DeptName)
+	set @TeamID = (select TeamID from TeamTbl where TeamName = @TeamName)
 	INSERT INTO EmpTbl 
 	(EmpName, 
 	DeptID, 
@@ -152,10 +155,10 @@ begin
 end
 go
 
-exec SPEmployeeManager
+exec SPEmployeeInsert
 @EmpName = '',
-@DeptID = 0, 
-@TeamID = 0, 
+@DeptName = 0, 
+@TeamName = 0, 
 @Probation_status = '', 
 @Job_Title = '',
 @DOJ = '', 
@@ -166,3 +169,11 @@ exec SPEmployeeManager
 @Date_of_Resignation = '', 
 @Date_of_Relieving = '', 
 @Salary = 0;
+
+create or alter proc SPEmployeeResign
+as
+begin
+	select null;
+end
+
+exec SPEmployeeResign;
