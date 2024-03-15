@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Projects\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4BEBCF-56DD-4B2F-ACCB-96142BE2DB81}|DataTypes\\DataTypes.csproj|d:\\documents\\github\\learn at rise\\dotnet\\dotnet projects\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4BEBCF-56DD-4B2F-ACCB-96142BE2DB81}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Projects\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Projects\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:17:40.907Z",
+              "EditorCaption": ""
             }
           ]
         }
