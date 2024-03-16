@@ -36,8 +36,6 @@ create table EmpTbl
 	Reporting_Manager varchar(20),
 	Work_Office varchar(20),
 	Emp_Status varchar(20),
-	Date_of_Resignation date,
-	Date_of_Relieving date,
 	Salary money
 	constraint FK_EmpTbl_DeptID foreign key (DeptID) references DeptTbl(DeptID),
 	constraint FK_EmpTbl_TeamID foreign key (TeamID) references TeamTbl(TeamID)
@@ -46,11 +44,9 @@ create table EmpTbl
 create table EmpHistory
 (
 	EmpHistID int primary key identity(100,1),
-	DeptID int,
 	EmpID int,
 	Date_of_Resignation date,
-	Date_of_Relieving date
-	constraint FK_EmpHistory_DeptID foreign key (DeptID) references DeptTbl(DeptID),
+	Date_of_Relieving date,
 	constraint FK_EmpHistory_EmpID foreign key (EmpID) references EmpTbl(EmpID)
 );
 
@@ -78,25 +74,24 @@ VALUES
     (101, 'Customer Support Team');
 
 -- Inserting data into EmpTbl
-INSERT INTO EmpTbl (EmpName, DeptID, TeamID, Probation_status, Job_Title, DOJ, Total_Experience, Reporting_Manager, Work_Office, Emp_Status, Date_of_Resignation, Date_of_Relieving, Salary)
+INSERT INTO EmpTbl (EmpName, DeptID, TeamID, Probation_status, Job_Title, DOJ, Total_Experience, Reporting_Manager, Work_Office, Emp_Status, Salary)
 VALUES 
-    ('Ananya Singh', 100, 100, 'Permanent', 'Software Engineer', '2023-01-15', 5, 'Amit Sharma', 'Office A', 'Active', NULL, NULL, 60000),
-    ('Rahul Kapoor', 100, 101, 'Permanent', 'HR Manager', '2023-02-10', 8, 'Neha Patel', 'Office B', 'Active', NULL, NULL, 70000),
-    ('Neha Sharma', 101, 102, 'Permanent', 'Marketing Specialist', '2023-03-20', 6, 'Rajesh Singh', 'Office C', 'Active', NULL, NULL, 55000),
-    ('Amit Patel', 102, 103, 'Permanent', 'Accountant', '2023-04-05', 7, 'Priya Gupta', 'Office D', 'Active', NULL, NULL, 65000),
-    ('Priya Singh', 104, 104, 'Permanent', 'Logistics Manager', '2023-05-15', 9, 'Vikram Singh', 'Office E', 'Active', NULL, NULL, 75000),
-    ('Rohan Verma', 104, 105, 'Permanent', 'Procurement Officer', '2023-06-20', 4, 'Priya Gupta', 'Office F', 'Active', NULL, NULL, 50000),
-    ('Anjali Rao', 101, 106, 'Permanent', 'Customer Support Representative', '2023-07-10', 3, 'Rohan Verma', 'Office G', 'Active', NULL, NULL, 45000),
-    ('Vivek Singh', 100, 100, 'Permanent', 'Software Engineer', '2023-08-25', 6, 'Amit Sharma', 'Office A', 'Active', NULL, NULL, 62000),
-    ('Meera Gupta', 101, 101, 'Permanent', 'Recruiter', '2023-09-15', 5, 'Rahul Kapoor', 'Office B', 'Active', NULL, NULL, 58000),
-    ('Kunal Sharma', 103, 103, 'Permanent', 'Financial Analyst', '2023-10-30', 7, 'Priya Gupta', 'Office D', 'Active', NULL, NULL, 68000);
+    ('Ananya Singh', 100, 100, 'Permanent', 'Software Engineer', '2023-01-15', 5, 'Amit Sharma', 'Office A', 'Exit', 60000),
+    ('Rahul Kapoor', 100, 101, 'Permanent', 'HR Manager', '2023-02-10', 8, 'Neha Patel', 'Office B', 'Active',70000),
+    ('Neha Sharma', 101, 102, 'Permanent', 'Marketing Specialist', '2023-03-20', 6, 'Rajesh Singh', 'Office C', 'Active', 55000),
+    ('Amit Patel', 102, 103, 'Permanent', 'Accountant', '2023-04-05', 7, 'Priya Gupta', 'Office D', 'Active', 65000),
+    ('Priya Singh', 104, 104, 'Permanent', 'Logistics Manager', '2023-05-15', 9, 'Vikram Singh', 'Office E', 'Active', 75000),
+    ('Rohan Verma', 104, 105, 'Permanent', 'Procurement Officer', '2023-06-20', 4, 'Priya Gupta', 'Office F', 'Exit',50000),
+    ('Anjali Rao', 101, 106, 'Permanent', 'Customer Support Representative', '2023-07-10', 3, 'Rohan Verma', 'Office G', 'Active',45000),
+    ('Vivek Singh', 100, 100, 'Permanent', 'Software Engineer', '2023-08-25', 6, 'Amit Sharma', 'Office A', 'Exit', 62000),
+    ('Meera Gupta', 101, 101, 'Permanent', 'Recruiter', '2023-09-15', 5, 'Rahul Kapoor', 'Office B', 'Active',58000),
+    ('Kunal Sharma', 103, 103, 'Permanent', 'Financial Analyst', '2023-10-30', 7, 'Priya Gupta', 'Office D', 'Active', 68000);
 
--- Inserting data into EmpHistory
-INSERT INTO EmpHistory (DeptID, EmpID, Date_of_Resignation, Date_of_Relieving)
-VALUES 
-    (100, 101, '2024-02-28', '2024-03-10'),
-    (101, 103, '2024-01-31', '2024-02-15'),
-    (104, 105, '2024-03-05', '2024-03-20');
+INSERT INTO EmpHistory (EmpID,Date_of_Resignation,Date_of_Relieving)
+VALUES
+(100,'2023-03-16','2024-06-14'),
+(105,'2023-03-16','2024-06-14'),
+(107,'2023-03-16','2024-06-14')
 
 select * from DeptTbl;
 select * from TeamTbl;
@@ -113,67 +108,93 @@ create or alter proc SPEmployeeInsert
 @Total_Experience int,
 @Reporting_Manager varchar(20), 
 @Work_Office varchar(20), 
-@Emp_Status varchar(20), 
-@Date_of_Resignation date, 
-@Date_of_Relieving date, 
+@Emp_Status varchar(20),
 @Salary money
 as
 begin
-	declare @DeptID int,@TeamID int
-	set @DeptID = (select DeptID from DeptTbl where DeptName = @DeptName)
-	set @TeamID = (select TeamID from TeamTbl where TeamName = @TeamName)
-	INSERT INTO EmpTbl 
-	(EmpName, 
-	DeptID, 
-	TeamID, 
-	Probation_status, 
-	Job_Title,
-	DOJ, 
-	Total_Experience,
-	Reporting_Manager, 
-	Work_Office, 
-	Emp_Status, 
-	Date_of_Resignation, 
-	Date_of_Relieving, 
-	Salary)
-	VALUES
-	(
-		@EmpName,
-		@DeptID, 
-		@TeamID, 
-		@Probation_status, 
-		@Job_Title,
-		@DOJ, 
-		@Total_Experience,
-		@Reporting_Manager, 
-		@Work_Office, 
-		@Emp_Status, 
-		@Date_of_Resignation, 
-		@Date_of_Relieving, 
-		@Salary
-	);
+declare @DeptID int,@TeamID int
+set @DeptID = (select DeptID from DeptTbl where DeptName = @DeptName)
+set @TeamID = (select TeamID from TeamTbl where TeamName = @TeamName)
+	if (select DeptID from TeamTbl where TeamID = @TeamID) = @DeptID 
+		begin
+			INSERT INTO EmpTbl 
+			(EmpName, 
+			DeptID, 
+			TeamID, 
+			Probation_status, 
+			Job_Title,
+			DOJ, 
+			Total_Experience,
+			Reporting_Manager, 
+			Work_Office, 
+			Emp_Status,
+			Salary)
+			VALUES
+			(
+				@EmpName,
+				@DeptID, 
+				@TeamID, 
+				@Probation_status, 
+				@Job_Title,
+				@DOJ, 
+				@Total_Experience,
+				@Reporting_Manager, 
+				@Work_Office, 
+				@Emp_Status,
+				@Salary
+			);
+		end
+	else
+		begin
+			print 'The empoyee should be in the same department';
+		end
+	
 end
 go
 
 exec SPEmployeeInsert
-@EmpName = '',
-@DeptName = 0, 
-@TeamName = 0, 
-@Probation_status = '', 
-@Job_Title = '',
-@DOJ = '', 
+@EmpName = 'Vijay',
+@DeptName = 'Marketing', 
+@TeamName = 'Social Media Team', 
+@Probation_status = 'Training', 
+@Job_Title = 'Digital Marketing',
+@DOJ = '2024-03-16', 
 @Total_Experience = 0,
-@Reporting_Manager = '', 
-@Work_Office  = '', 
-@Emp_Status = '', 
-@Date_of_Resignation = '', 
-@Date_of_Relieving = '', 
+@Reporting_Manager = 'Aman Sharma', 
+@Work_Office  = 'Office E', 
+@Emp_Status = 'Active',
 @Salary = 0;
 
+select * from DeptTbl;
+select * from TeamTbl;
+select * from EmpTbl;
+select * from EmpHistory;
+
 create or alter proc SPEmployeeResign
+@EmpName varchar(30)
 as
 begin
-	select null;
+	declare @EmpID int, @Emp_Status varchar(20)
+	set @EmpID =  (select EmpID from EmpTbl where EmpName = @EmpName)
+	set @Emp_Status = (select Emp_Status from EmpTbl where EmpID = @EmpID);
+
+	if  @Emp_Status not in ('Resign','Exit')
+		begin
+			insert into EmpHistory (EmpID,Date_of_Resignation,Date_of_Relieving)
+			values (@EmpID,getdate(),DATEADD(day,90,getdate()));
+	
+			update EmpTbl set Emp_Status = 'Resign'
+			where EmpID = @EmpID;	
+		end
+	else
+		begin
+			print 'The employee has already left.'
+		end
 end
 
-exec SPEmployeeResign;
+exec SPEmployeeResign @EmpName = 'Meera Gupta';
+
+select * from EmpTbl;
+select * from EmpHistory;
+
+truncate table EmpHistory;
