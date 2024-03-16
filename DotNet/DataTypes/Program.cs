@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Datatype
+namespace DataTypes
 {
     internal class Program
     {

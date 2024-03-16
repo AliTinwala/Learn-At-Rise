@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\Datatype\\Datatype\\Datatype.csproj": {}
+    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\Datatype\\Datatype\\Datatype.csproj": {
+    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\Datatype\\Datatype\\Datatype.csproj",
-        "projectName": "Datatype",
-        "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\Datatype\\Datatype\\Datatype.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DataTypes\\DataTypes.csproj",
+        "projectName": "DataTypes",
+        "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\Ali's PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\Datatype\\Datatype\\obj\\",
+        "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
