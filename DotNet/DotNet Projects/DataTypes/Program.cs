@@ -11,6 +11,7 @@ namespace DataTypes
             char ch = 'B';
 
             Console.WriteLine($"Char: {ch}");
+
         }
     }
 }
