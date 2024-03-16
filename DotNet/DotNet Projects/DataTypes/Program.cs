@@ -7,6 +7,10 @@ namespace DataTypes
         static void Main(string[] args)
         {
             Console.WriteLine("Datatypes");
+
+            char ch = 'B';
+
+            Console.WriteLine($"Char: {ch}");
         }
     }
 }
