@@ -1,0 +1,6 @@
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\bin\Debug\EscapeSequence.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\bin\Debug\EscapeSequence.exe
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\bin\Debug\EscapeSequence.pdb
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\obj\Debug\EscapeSequence.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\obj\Debug\EscapeSequence.exe
+C:\Users\sunit\source\repos\DotNetPractical\EscapeSequence\obj\Debug\EscapeSequence.pdb

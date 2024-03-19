@@ -1,0 +1,6 @@
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\bin\Debug\BoxingUnboxingex.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\bin\Debug\BoxingUnboxingex.exe
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\bin\Debug\BoxingUnboxingex.pdb
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\obj\Debug\BoxingUnboxingex.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\obj\Debug\BoxingUnboxingex.exe
+C:\Users\sunit\source\repos\DotNetPractical\BoxingUnboxingex\obj\Debug\BoxingUnboxingex.pdb

@@ -1,0 +1,10 @@
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\sunit\source\repos\DotNetPractical\ConsoleApp1\obj\Debug\Enum.csproj.CopyComplete
