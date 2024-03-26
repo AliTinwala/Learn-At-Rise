@@ -1,6 +1,0 @@
-C:\Users\sunit\source\repos\DotNetPractical\Structure\bin\Debug\Structure.exe.config
-C:\Users\sunit\source\repos\DotNetPractical\Structure\bin\Debug\Structure.exe
-C:\Users\sunit\source\repos\DotNetPractical\Structure\bin\Debug\Structure.pdb
-C:\Users\sunit\source\repos\DotNetPractical\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
-C:\Users\sunit\source\repos\DotNetPractical\Structure\obj\Debug\Structure.exe
-C:\Users\sunit\source\repos\DotNetPractical\Structure\obj\Debug\Structure.pdb

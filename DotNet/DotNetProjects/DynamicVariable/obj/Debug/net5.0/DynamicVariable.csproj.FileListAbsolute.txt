@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\bin\Debug\net5.0\DynamicVariable.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\refint\DynamicVariable.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\DynamicVariable.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\DynamicVariable\obj\Debug\net5.0\ref\DynamicVariable.dll

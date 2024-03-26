@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\bin\Debug\net5.0\Structure.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\refint\Structure.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\Structure.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Structure\obj\Debug\net5.0\ref\Structure.dll

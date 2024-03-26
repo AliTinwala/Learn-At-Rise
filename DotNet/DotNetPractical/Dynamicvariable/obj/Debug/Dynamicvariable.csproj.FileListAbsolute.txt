@@ -1,6 +1,0 @@
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\bin\Debug\Dynamicvariable.exe.config
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\bin\Debug\Dynamicvariable.exe
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\bin\Debug\Dynamicvariable.pdb
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\obj\Debug\Dynamicvariable.csproj.CoreCompileInputs.cache
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\obj\Debug\Dynamicvariable.exe
-C:\Users\sunit\source\repos\DotNetPractical\Dynamicvariable\obj\Debug\Dynamicvariable.pdb

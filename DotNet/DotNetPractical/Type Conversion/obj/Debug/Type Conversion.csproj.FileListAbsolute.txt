@@ -1,7 +1,0 @@
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\bin\Debug\Type Conversion.exe.config
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\bin\Debug\Type Conversion.exe
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\bin\Debug\Type Conversion.pdb
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\obj\Debug\Type Conversion.csproj.AssemblyReference.cache
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\obj\Debug\Type Conversion.csproj.CoreCompileInputs.cache
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\obj\Debug\Type Conversion.exe
-C:\Users\sunit\source\repos\DotNetPractical\Type Conversion\obj\Debug\Type Conversion.pdb

@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\bin\Debug\net5.0\EscapeSequence.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\refint\EscapeSequence.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\EscapeSequence.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\EscapeSequence\obj\Debug\net5.0\ref\EscapeSequence.dll

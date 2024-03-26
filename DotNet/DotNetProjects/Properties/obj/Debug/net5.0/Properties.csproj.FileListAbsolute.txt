@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\bin\Debug\net5.0\Properties.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\refint\Properties.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Properties\obj\Debug\net5.0\ref\Properties.dll

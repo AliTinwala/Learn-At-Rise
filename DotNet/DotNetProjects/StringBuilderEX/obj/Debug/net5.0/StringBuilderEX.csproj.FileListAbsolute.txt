@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\bin\Debug\net5.0\StringBuilderEX.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\refint\StringBuilderEX.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\StringBuilderEX.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\StringBuilderEX\obj\Debug\net5.0\ref\StringBuilderEX.dll

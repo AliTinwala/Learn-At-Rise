@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\bin\Debug\net5.0\Type Conversion.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\refint\Type Conversion.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\Type Conversion.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Type Conversion\obj\Debug\net5.0\ref\Type Conversion.dll

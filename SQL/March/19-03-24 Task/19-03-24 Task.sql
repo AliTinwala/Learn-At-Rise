@@ -4,7 +4,6 @@ use AdventureWorksLT2017
 -- 1. Show the number of customers living in a country.
 create or alter function FN_NoOfCustomers(@country varchar(30))
 returns int
-as
 begin
 	declare @count int
 	select @count = count(*) from SalesLT.Customer

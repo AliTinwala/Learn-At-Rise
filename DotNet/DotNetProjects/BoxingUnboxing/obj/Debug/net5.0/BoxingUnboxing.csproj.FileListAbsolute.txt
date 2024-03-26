@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\bin\Debug\net5.0\BoxingUnboxing.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\refint\BoxingUnboxing.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\BoxingUnboxing.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\BoxingUnboxing\obj\Debug\net5.0\ref\BoxingUnboxing.dll
