@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\bin\Debug\net5.0\NullableAndIndexer.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\refint\NullableAndIndexer.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\NullableAndIndexer.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\NullableAndIndexer\obj\Debug\net5.0\ref\NullableAndIndexer.dll

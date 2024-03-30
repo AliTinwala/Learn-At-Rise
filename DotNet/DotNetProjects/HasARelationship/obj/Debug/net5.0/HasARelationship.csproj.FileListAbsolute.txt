@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\bin\Debug\net5.0\HasARelationship.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\refint\HasARelationship.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\HasARelationship.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\HasARelationship\obj\Debug\net5.0\ref\HasARelationship.dll

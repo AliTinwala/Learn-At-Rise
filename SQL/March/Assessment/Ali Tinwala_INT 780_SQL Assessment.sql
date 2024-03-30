@@ -26,15 +26,15 @@ insert into student values (5,'E',79.2,81.3,77.3,74.3,83.6,87.3);
 select * from student
 
 -- (a). Write a SQL query which provides aggregated percentage as an output for each student. 
-select Student_ID,Student_Name, (Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6) as 'Total Percentage'
+select Student_ID,Student_Name, (Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6)/6 as 'Total Percentage'
 from student
 
 -- (b). What is the max percentage obtained by any students? 
-select *,(Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6) from student
-where (Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6) =  (select max((Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6)) from student)
+select *,(Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6)/6 from student
+where (Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6)/6 =  (select max((Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6)/6) from student)
 
 -- (c). Write a SQL query to find out combination of top 5% students with bottom 5% students based on sequential storage order of avg percent.
-select top 5 *,avg(Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6) as 'Average'
+select top 5 percent *,avg(Sem1 +Sem2 + Sem3 + Sem4 + Sem5 + Sem6) as 'Average'
 from student
 group by Student_ID,Student_Name, Sem1 , Sem2 , Sem3 , Sem4 , Sem5 , Sem6
 order by  'Average' desc
@@ -87,14 +87,57 @@ insert into product values(5	,'E',	'2022-12-30','2023-01-18',	'2022-12-13');
 select * from product;
 
 --2. (a) Write a SQL query which tells when each consumer received all the products.
+select * from product;
+begin
+	declare @date date, @date_pc date, @date_ac date, @date_phone date, @count int, @total_count int
 
-select p.CustomerName,p1.ProductID,p1.Delivery_Date_AC,p1.Delivery_Date_PC,p1.Delivery_Date_Phone from product p
-cross join product p1
+	set @count = 1
+	set @total_count = (select count(*) from product)
+
+	while @count <= @total_count
+	begin
+		set @date_pc = (select Delivery_Date_PC from product where ProductID = @count)
+		set @date_ac = (select Delivery_Date_AC from product where ProductID = @count)
+		set @date_phone = (select Delivery_Date_Phone from product where ProductID = @count)
+
+		if (@date_pc > @date_ac and @date_pc > @date_phone)
+			set @date = @date_pc
+		else if (@date_ac > @date_pc and @date_ac > @date_phone)
+			set @date = @date_ac
+		else
+			set @date = @date_phone
+
+			print concat('The date when each customer received product', @count, ' is: ',@date)
+			
+			set @count = @count + 1
+	end
+end
 
 -- 2. (b) Write a SQL query which tells when each consumer received their first product.
-select p.CustomerName,p1.ProductID,p1.Delivery_Date_AC,p1.Delivery_Date_PC,p1.Delivery_Date_Phone from product p
-cross join product p1
-where P1.ProductID = 1;
+begin
+	declare @date date, @date_pc date, @date_ac date, @date_phone date, @count int, @total_count int
+
+	set @count = 1
+	set @total_count = (select count(*) from product)
+
+	while @count <= @total_count
+	begin
+		set @date_pc = (select Delivery_Date_PC from product where ProductID = @count)
+		set @date_ac = (select Delivery_Date_AC from product where ProductID = @count)
+		set @date_phone = (select Delivery_Date_Phone from product where ProductID = @count)
+
+		if (@date_pc < @date_ac and @date_pc < @date_phone)
+			set @date = @date_pc
+		else if (@date_ac < @date_pc and @date_ac < @date_phone)
+			set @date = @date_ac
+		else
+			set @date = @date_phone
+
+			print concat('The date when each customer received product', @count, ' is: ',@date)
+			
+			set @count = @count + 1
+	end
+end
 
 -- 3. 3.	Mr. A, CEO of a top HR firm was passing by the corridor wen he heard one of the senior manager asking his junior about the appraisal cycle near tea machine. This made her curious about those employees who joined earlier than their reporting managers. Can you help Mr. A in finding those employee who have joined before their reporting managers?
 create table emp
@@ -129,8 +172,7 @@ begin
 	set @m = datediff(month,@dob,@currentdatetime)-(datediff(year,@dob,@currentdatetime)*12)  
 	set @d = datepart(d,@currentdatetime)-datepart(d,@dob)
 
-	declare @age date
-	set @msg = concat(@y,' yrs ',@m,' months ',@d,' days ')
+	set @msg = concat(@y,' yrs, ',@m,' month(s), ',@d,' day(s) ')
 	print @msg
 end
 
