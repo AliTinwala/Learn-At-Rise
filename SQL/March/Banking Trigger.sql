@@ -30,6 +30,9 @@ go
 drop trigger trg_balanceUpdates
 go
 
+select acc_id,dateoftxn,count(*) from txntbl where typeoftxn = 'CW' and acc_id = 1 GROUP BY acc_id,dateoftxn
+
+go
 create or alter trigger trg_balanceUpdates
 on txntbl
 after insert,update,delete
@@ -45,7 +48,8 @@ begin
 	@countdate int,
 	@totalamt money
 
-	set @countdate = (select acc_id,dateoftxn,count(*) from txntbl where typeoftxn = 'CW' and acc_id = 1 GROUP BY dateoftxn,acc_id)
+	select @countdate = (select acc_id,dateoftxn,count(*) from txntbl where typeoftxn = 'CW' and acc_id = @id GROUP BY acc_id,dateoftxn)
+	print @countdate
 
 	set @totalamt = 0
 
