@@ -47,8 +47,8 @@ begin
 	@netbalance money,
 	@countdate int,
 	@totalamt money
+	set @countdate = 0
 
-	select @countdate = (select acc_id,dateoftxn,count(*) from txntbl where typeoftxn = 'CW' and acc_id = @id GROUP BY acc_id,dateoftxn)
 	print @countdate
 
 	set @totalamt = 0
@@ -72,6 +72,7 @@ begin
 		end
 		else if (@typeoftxn = 'CW')
 		begin
+			set @countdate = (select count(*) from txntbl where typeoftxn = 'CW' and acc_id = @id GROUP BY acc_id,dateoftxn)
 			set @totalamt = @totalamt + @amount
 			print @totalamt
 			if(@countdate <= 3 and @totalamt <= 40000)
@@ -106,10 +107,11 @@ insert into acc_mastertbl values('Het',0,'Active')
 
 insert into txntbl (acc_id,typeoftxn,txn_amt) values(1,'CD',100000)
 insert into txntbl (acc_id,typeoftxn,txn_amt) values(2,'CD',100000)
-
+	
 insert into txntbl (acc_id,typeoftxn,txn_amt)values(1,'CW',41000)
 insert into txntbl (acc_id,typeoftxn,txn_amt)values(2,'CW',41000)
 
+select count(*) from txntbl where typeoftxn = 'CW' and acc_id = 1 GROUP BY acc_id,dateoftxn
 
 truncate table txntbl
 truncate table acc_mastertbl
