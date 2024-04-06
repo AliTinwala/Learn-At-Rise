@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\bin\Debug\net5.0\AbstractandSeal.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\refint\AbstractandSeal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\AbstractandSeal.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Abstract\obj\Debug\net5.0\ref\AbstractandSeal.dll

@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\bin\Debug\net5.0\Overhidden.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\refint\Overhidden.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\Overhidden.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Overhidden\obj\Debug\net5.0\ref\Overhidden.dll
