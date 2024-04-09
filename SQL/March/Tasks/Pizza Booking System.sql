@@ -86,7 +86,20 @@ create table order_tbl
 
 -- Wed,Fri - size S - No discount
 -- Wed,Fri - size M - 1 Buy + 1 Free
-
+ 
 -- discount on online orders on 2nd pizza 50% discount.
 
-create or alter 
+-- Create a trigger for all the above conditions
+go
+create or alter trigger PizzzaBookingManagement
+on order_tbl
+after insert,update,delete
+as
+begin
+	declare @dayoftheweek varchar(20)
+	set @dayoftheweek = (select datename(dw,getdate()))
+	print @dayoftheweek
+end
+
+insert into order_tbl(customer_id,product_id,size_id,quantity,tax,total_price,payment_id) 
+values(1,1,1,1,10,101,1)

@@ -12,5 +12,3 @@ function totalBill(bill)
 totalBill(275)
 totalBill(40)
 totalBill(430)
-
-
