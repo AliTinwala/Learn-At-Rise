@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+:root
+{
+  --navbar-color: rgb(24, 44, 86);
+}
+
+@font-face {
+    font-family: 'YourCustomFont';
+    src: url('assets/fonts/meal-admin.woff') format('woff'),
+         url('assets/fonts/meal-admin.ttf') format('ttf');
+    /* Add more font formats if needed */
+  }
+
+html, body { height: 100%; font-family: 'YourCustomFont', sans-serif;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

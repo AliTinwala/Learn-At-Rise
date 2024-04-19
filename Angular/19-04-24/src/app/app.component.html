@@ -6,20 +6,10 @@
       <th>Color</th>
     </thead>
     <tbody>
-      <tr>
-        <td>1</td>
-        <td>Ali</td>
-        <td>Blue</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Zeenat</td>
-        <td>Yellow</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Aziza</td>
-        <td>Brown</td>
+      <tr *ngFor="let employee of employees">
+        <td>{{employee.Id}}</td>
+        <td>{{employee.Name}}</td>
+        <td>{{employee.Color}}</td>
       </tr>
     </tbody>
   </table>  

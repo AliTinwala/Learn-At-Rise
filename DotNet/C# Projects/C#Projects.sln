@@ -37,17 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClass", "PartialClas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{81F1EE32-D29B-4302-9B81-2A5125890461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protected Internal", "Protected Internal\Protected Internal.csproj", "{FFE28C12-23C9-408F-8B86-444EA5ADAB90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Protected Internal", "Protected Internal\Protected Internal.csproj", "{FFE28C12-23C9-408F-8B86-444EA5ADAB90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protected Internal Inherited", "Protected Internal Inherited\Protected Internal Inherited.csproj", "{D1A76919-1C18-4E09-B991-8D23781FB8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Protected Internal Inherited", "Protected Internal Inherited\Protected Internal Inherited.csproj", "{D1A76919-1C18-4E09-B991-8D23781FB8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "Class Library\Class Library.csproj", "{A44162E8-EAE5-4C70-93D5-284F2AE10A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Library", "Class Library\Class Library.csproj", "{A44162E8-EAE5-4C70-93D5-284F2AE10A76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library Namespace", "Class Library Namespace\Class Library Namespace.csproj", "{352DB772-39AF-4923-B23B-1CDA7EC64D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Library Namespace", "Class Library Namespace\Class Library Namespace.csproj", "{352DB772-39AF-4923-B23B-1CDA7EC64D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Lib Ext Method", "Class Lib Ext Method\Class Lib Ext Method.csproj", "{2F41FEA6-9ADA-4913-A50F-2A08F45082EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Lib Ext Method", "Class Lib Ext Method\Class Lib Ext Method.csproj", "{2F41FEA6-9ADA-4913-A50F-2A08F45082EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Method", "Extension Method\Extension Method.csproj", "{8DF97E72-BB4D-4F76-BDF4-D69A6E6F424F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension Method", "Extension Method\Extension Method.csproj", "{8DF97E72-BB4D-4F76-BDF4-D69A6E6F424F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{82E12CE8-9F42-423F-825B-C470F4223D04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{8DF97E72-BB4D-4F76-BDF4-D69A6E6F424F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DF97E72-BB4D-4F76-BDF4-D69A6E6F424F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DF97E72-BB4D-4F76-BDF4-D69A6E6F424F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E12CE8-9F42-423F-825B-C470F4223D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E12CE8-9F42-423F-825B-C470F4223D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E12CE8-9F42-423F-825B-C470F4223D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E12CE8-9F42-423F-825B-C470F4223D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

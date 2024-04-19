@@ -1,0 +1,4 @@
+.navbar {
+    background-color: var(--navbar-color);
+    color: var(--navbar-color); /* You can also use the custom color for text color */
+  }
