@@ -1,0 +1,20 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library Namespace.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\bin\Debug\net5.0\Class Library.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.csproj.AssemblyReference.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Li.C3F19D9B.Up2Date
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\refint\Class Library Namespace.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\Class Library Namespace.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Library Namespace\obj\Debug\net5.0\ref\Class Library Namespace.dll

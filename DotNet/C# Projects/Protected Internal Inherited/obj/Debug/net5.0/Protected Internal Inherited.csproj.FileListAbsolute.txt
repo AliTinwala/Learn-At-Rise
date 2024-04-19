@@ -1,0 +1,24 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal Inherited.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\bin\Debug\net5.0\Protected Internal.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.csproj.AssemblyReference.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protecte.2A7DEB7D.Up2Date
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\refint\Protected Internal Inherited.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\Protected Internal Inherited.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal Inherited\obj\Debug\net5.0\ref\Protected Internal Inherited.dll

@@ -91,7 +91,7 @@ create table Book_Issuing_Details
 go
 
 -- Date of return  - 15 days after issuing date
--- after 15 day at 10'o clock if book is not returned charge 1 Rs per day(including Sat & Sun)
+-- after 15 day at 10'o clock if book is not returned charge penalty 1 Rs per day(including Sat & Sun)
 -- can issue max 3 books in total per student
 -- student must return any one book from 3 books issued then, he/she can issue another book
 -- change status to returned when book is returned
@@ -102,15 +102,69 @@ on  Book_Issuing_Details
 after insert,update,delete
 as
 begin
-	declare @b_id int,@s_id int,@doi date,@penalty int,@status varchar(20)
+	declare @b_id int,@s_id int,@doi date,@penalty int,@status varchar(20),@dor date
+	declare @books_issued int,@books_returned int,@total_books int,@same_book int
+	declare @stock int
+
+	set @books_issued = 0
+	set @books_returned = 0
+	set @total_books = 0
+	set @same_book = 0
 
 	select @b_id = book_id,@s_id = student_id,@doi = date_of_issue,@penalty = penalty,@status = issue_status from Book_Issuing_Details
-	
-	print concat(@b_id ,' ',@s_id,' ',@doi,' ',@penalty,' ',@status)
+
+	set @stock = (select available_stock from Book_Details where book_id = @b_id)
+
+	set @dor = DATEADD(day, 15, @doi)
+	set @books_issued = (select count(*) from Book_Issuing_Details where issue_status = 'Issued' and student_id = @s_id group by student_id)
+	set @books_returned = (select count(*) from Book_Issuing_Details where issue_status = 'Returned' and student_id = @s_id group by student_id)
+	set @total_books = @books_issued - @books_returned
+	set @same_book = (select count(*) from Book_Issuing_Details where issue_status = 'Issued' and student_id = @s_id and book_id = @b_id group by book_id)
+	print @same_book
+
+	if(@stock > 0)
+	begin
+		if(@status = 'Issued')
+		begin
+			if(@total_books <= 3 and @same_book < 1)
+			begin
+				update Book_Details set available_stock = available_stock - 1 where book_id = @b_id
+				print 'Book can be issued by student'
+			end
+			else
+			begin
+				print 'Book cannot be issued by student'
+			end
+		end
+		else if(@status = 'Returned')
+		begin
+			if(@total_books > 0 and @stock > 0)
+			begin
+				print 'You can return book'
+			end
+			else
+			begin
+				print 'You have not issued any book'
+			end
+		end
+	end
+	else
+	begin
+		print 'Book is not available'
+	end
+
+	print concat(@b_id ,' ',@s_id,' ',@doi,' ',@penalty,' ',@status,' ',@dor)
+	print concat('Books Issued ',@books_issued)
+	print concat('Books Returned ',@books_returned)
+	print concat('Total Books per student ',@total_books)
+
 end
 go
 
-insert into Book_Issuing_Details(book_id,student_id,date_of_issue) 
-values(1,1,GETDATE())
+insert into Book_Issuing_Details(book_id,student_id,date_of_issue,issue_status) 
+values(2,2,GETDATE(),'Issued')
 
+select * from Book_Details
 select * from Book_Issuing_Details
+
+truncate table Book_Issuing_Details

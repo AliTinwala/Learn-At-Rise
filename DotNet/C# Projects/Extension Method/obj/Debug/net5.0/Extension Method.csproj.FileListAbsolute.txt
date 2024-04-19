@@ -1,0 +1,20 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Extension Method.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Class Lib Ext Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\bin\Debug\net5.0\Class Lib Ext Method.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.csproj.AssemblyReference.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extensio.3E73F655.Up2Date
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\refint\Extension Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\Extension Method.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Extension Method\obj\Debug\net5.0\ref\Extension Method.dll

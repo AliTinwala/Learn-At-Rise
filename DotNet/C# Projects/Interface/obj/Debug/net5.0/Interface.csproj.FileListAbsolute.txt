@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\bin\Debug\net5.0\Interface.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\refint\Interface.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Interface\obj\Debug\net5.0\ref\Interface.dll

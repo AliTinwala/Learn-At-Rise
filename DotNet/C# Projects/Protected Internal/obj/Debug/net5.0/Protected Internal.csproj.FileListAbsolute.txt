@@ -1,0 +1,16 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.exe
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.runtimeconfig.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.runtimeconfig.dev.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\bin\Debug\net5.0\Protected Internal.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\refint\Protected Internal.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\Protected Internal.genruntimeconfig.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Protected Internal\obj\Debug\net5.0\ref\Protected Internal.dll

@@ -1,0 +1,12 @@
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\bin\Debug\net5.0\Class Lib Ext Method.deps.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\bin\Debug\net5.0\Class Lib Ext Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\bin\Debug\net5.0\Class Lib Ext Method.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.AssemblyInfo.cs
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.sourcelink.json
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\refint\Class Lib Ext Method.dll
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\Class Lib Ext Method.pdb
+D:\Documents\Github\Learn At Rise\DotNet\DotNetProjects\Class Lib Ext Method\obj\Debug\net5.0\ref\Class Lib Ext Method.dll
