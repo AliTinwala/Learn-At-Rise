@@ -26,12 +26,7 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/pink-bluegrey.css",
-              "src/styles.css",
-              {
-                "glob": "**/*",
-                "input": "src/assets/fonts/",
-                "output": "/assets/fonts/"
-              }
+              "src/styles.css"
             ],
             "scripts": []
           },
