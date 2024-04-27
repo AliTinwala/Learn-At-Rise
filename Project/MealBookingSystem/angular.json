@@ -22,13 +22,37 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "**/*.woff",
+                "input": "src/assets/fonts/",
+                "output": "/assets/fonts/"
+              },
+              {
+                "glob": "**/*.ttf",
+                "input": "src/assets/fonts/",
+                "output": "/assets/fonts/"
+              },
+              {
+                "glob": "**/*.eot",
+                "input": "src/assets/fonts/",
+                "output": "/assets/fonts/"
+              },
+              {
+                "glob": "**/*.js",
+                "input": "src/assets/js",
+                "output": "assets/js"
+              }
             ],
             "styles": [
               "@angular/material/prebuilt-themes/pink-bluegrey.css",
+              "src/assets/sass/main.scss",
+              "src/assets/css/main.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/bootstrap.bundle.min.js"
+            ]
           },
           "configurations": {
             "production": {

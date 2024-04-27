@@ -4,17 +4,19 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatTabsModule} from '@angular/material/tabs';
+import { MatTabsModule } from '@angular/material/tabs';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
+import { HomeModule } from './home/home.module';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,
@@ -23,7 +25,8 @@ import { HeaderComponent } from './header/header.component';
     MatSlideToggleModule,
     MatTabsModule,
     MatToolbarModule,
-    MatIconModule
+    MatIconModule,
+    HomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
