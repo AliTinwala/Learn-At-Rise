@@ -1,79 +1,157 @@
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\MVCApplication.dll.config
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\MVCApplication.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\MVCApplication.pdb
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csc.exe
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csc.exe.config
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csc.rsp
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csi.exe
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csi.exe.config
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\csi.rsp
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.Managed.Core.targets
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.AppContext.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Collections.Immutable.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Console.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Globalization.Calendars.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.IO.Compression.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.IO.FileSystem.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Net.Http.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Net.Sockets.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Reflection.Metadata.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.ValueTuple.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Xml.XmlDocument.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Xml.XPath.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\vbc.exe
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\vbc.exe.config
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\vbc.rsp
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\VBCSCompiler.exe
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\roslyn\VBCSCompiler.exe.config
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Antlr3.Runtime.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Microsoft.Web.Infrastructure.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Newtonsoft.Json.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Helpers.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Mvc.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Optimization.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Razor.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.Deployment.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.Razor.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\WebGrease.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Helpers.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Mvc.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Optimization.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.Razor.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.Deployment.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\System.Web.WebPages.Razor.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Newtonsoft.Json.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Antlr3.Runtime.pdb
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\obj\Debug\MVCApplication.csproj.AssemblyReference.cache
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\obj\Debug\MVCApplication.csproj.CoreCompileInputs.cache
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\obj\Debug\MVCAppli.523EB831.Up2Date
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\obj\Debug\MVCApplication.dll
-D:\Documents\Github\Learn At Rise\DotNet\DotNet Framework Applications\MVCApplication\MVCApplication\obj\Debug\MVCApplication.pdb
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/MVCApplication.dll.config
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/MVCApplication.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/MVCApplication.pdb
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.exe
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.exe.config
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.rsp
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.exe
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.exe.config
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.rsp
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.AppContext.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Collections.Immutable.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Console.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Globalization.Calendars.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.Compression.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.FileSystem.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Net.Http.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Net.Sockets.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Reflection.Metadata.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.ValueTuple.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XPath.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.exe
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.exe.config
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.rsp
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/VBCSCompiler.exe
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/VBCSCompiler.exe.config
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Antlr3.Runtime.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.Web.Infrastructure.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Newtonsoft.Json.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Helpers.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Mvc.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Optimization.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Razor.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Deployment.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Razor.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/WebGrease.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Helpers.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Mvc.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Optimization.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Razor.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Deployment.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Razor.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Newtonsoft.Json.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Antlr3.Runtime.pdb
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.csproj.AssemblyReference.cache
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.csproj.CoreCompileInputs.cache
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCAppli.523EB831.Up2Date
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.dll
+D:/Documents/Github/Learn At Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.pdb
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/MVCApplication.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/MVCApplication.pdb
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.exe
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.exe.config
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csc.rsp
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.exe
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.exe.config
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/csi.rsp
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.AppContext.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Collections.Immutable.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Console.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Globalization.Calendars.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.Compression.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.FileSystem.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Net.Http.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Net.Sockets.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Reflection.Metadata.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.ValueTuple.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XPath.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.exe
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.exe.config
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/vbc.rsp
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/VBCSCompiler.exe
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/roslyn/VBCSCompiler.exe.config
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Antlr3.Runtime.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.Web.Infrastructure.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Newtonsoft.Json.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Helpers.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Mvc.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Optimization.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Razor.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Deployment.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Razor.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/WebGrease.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Helpers.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Mvc.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Optimization.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.Razor.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Deployment.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/System.Web.WebPages.Razor.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Newtonsoft.Json.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Antlr3.Runtime.pdb
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.csproj.AssemblyReference.cache
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.csproj.CoreCompileInputs.cache
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.csproj.CopyComplete
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.dll
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/MVCApplication/MVCApplication/obj/Debug/MVCApplication.pdb
