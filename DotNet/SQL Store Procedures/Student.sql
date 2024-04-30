@@ -8,6 +8,9 @@ S_Name varchar(20) not null,
 S_Age int not null,
 S_Email varchar(50) not null)
 
+insert into Student values('Ali',27,'aliztinwala@gmail.com')
+
+select * from student;
 
 Create proc Sp_InsertStudent
 (@S_Id int , 
