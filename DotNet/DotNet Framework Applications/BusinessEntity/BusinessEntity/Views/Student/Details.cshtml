@@ -1,0 +1,50 @@
+﻿@model MVC_BusinessEntities.BE_Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BE_Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

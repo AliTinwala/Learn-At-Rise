@@ -1,0 +1,11 @@
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\bin\Debug\netstandard2.0\MVC_BusinessEntities.deps.json
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\bin\Debug\netstandard2.0\MVC_BusinessEntities.dll
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\bin\Debug\netstandard2.0\MVC_BusinessEntities.pdb
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.csproj.AssemblyReference.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.AssemblyInfo.cs
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.sourcelink.json
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.dll
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\BusinessEntity\MVC_BusinessEntities\obj\Debug\netstandard2.0\MVC_BusinessEntities.pdb

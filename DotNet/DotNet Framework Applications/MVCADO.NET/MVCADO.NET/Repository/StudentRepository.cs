@@ -24,6 +24,7 @@ namespace MVCADO.NET.Repository
             connection();
             SqlCommand cmd = new SqlCommand("Sp_InsertStudent", con);
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("S_Id", obj.S_Id);
             cmd.Parameters.AddWithValue("@S_Name", obj.S_Name);
             cmd.Parameters.AddWithValue("@S_Age", obj.S_Age);
             cmd.Parameters.AddWithValue("@S_Email", obj.S_Email);
@@ -123,6 +124,23 @@ namespace MVCADO.NET.Repository
                 return false;
             }
         }
-
+        public StudentModel GetStudentDetailsById(int Id)
+        {
+            connection();
+            StudentModel student = new StudentModel();
+            SqlCommand com = new SqlCommand("Sp_GetStudentDetailsByID", con);
+            com.CommandType = CommandType.StoredProcedure;
+            com.Parameters.AddWithValue("@S_Id", Id);
+            con.Open();
+            SqlDataReader rdr = com.ExecuteReader();
+            while(rdr.Read())
+            {
+                student.S_Name = rdr["S_Name"].ToString();
+                student.S_Age = Convert.ToInt32(rdr["S_Age"]);
+                student.S_Email = rdr["S_Email"].ToString();
+            }
+            con.Close();
+            return student;
+        }
     }
 }

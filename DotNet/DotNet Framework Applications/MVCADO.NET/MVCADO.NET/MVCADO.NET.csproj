@@ -184,6 +184,7 @@
     <Content Include="Views\Student\GetAllStudents.cshtml" />
     <Content Include="Views\Student\EditStudentDetails.cshtml" />
     <Content Include="Views\Student\DeleteStudent.cshtml" />
+    <Content Include="Views\Student\GetStudentDetailsById.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -17,6 +17,15 @@ namespace MVCADO.NET.Controllers
             return View(StuRepo.GetAllStudents());
         }
 
+        public ActionResult GetStudentDetailsById(int id)
+        {
+            StudentRepository StuRepo = new StudentRepository();
+            StudentModel StuModel = new StudentModel();
+            ModelState.Clear();
+            StuModel = StuRepo.GetStudentDetailsById(id);
+            return View(StuModel);
+        }
+
         public ActionResult AddStudent() 
         {
             return View();

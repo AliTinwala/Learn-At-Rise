@@ -1,0 +1,44 @@
+﻿@model MVCADO.NET.Models.StudentModel
+
+<div>
+    <h4>StudentModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.S_Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.S_Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditStudentDetails", new { id = Model.S_Id}) |
+    @Html.ActionLink("Back to List", "GetAllStudents")
+</p>
