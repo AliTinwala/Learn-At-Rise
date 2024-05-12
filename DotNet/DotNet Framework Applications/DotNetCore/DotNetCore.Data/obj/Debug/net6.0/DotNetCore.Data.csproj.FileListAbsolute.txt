@@ -1,0 +1,5 @@
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/DotNetCore/DotNetCore.Data/obj/Debug/net6.0/DotNetCore.Data.csproj.AssemblyReference.cache
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/DotNetCore/DotNetCore.Data/obj/Debug/net6.0/DotNetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/DotNetCore/DotNetCore.Data/obj/Debug/net6.0/DotNetCore.Data.AssemblyInfoInputs.cache
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/DotNetCore/DotNetCore.Data/obj/Debug/net6.0/DotNetCore.Data.AssemblyInfo.cs
+/Users/alitinwala/Documents/Github/Learn-At-Rise/DotNet/DotNet Framework Applications/DotNetCore/DotNetCore.Data/obj/Debug/net6.0/DotNetCore.Data.csproj.CoreCompileInputs.cache
