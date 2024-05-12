@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/ylY1IvN7uLmxYak6uj71y3k3HJcbmIuqegwImMRn6Q=",
+  "Source": "MealBookingAPI.Application",
+  "BasePath": "_content/MealBookingAPI.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

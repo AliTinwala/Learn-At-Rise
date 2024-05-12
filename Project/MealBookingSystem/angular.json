@@ -45,6 +45,8 @@
               }
             ],
             "styles": [
+              "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/assets/sass/main.scss",
               "src/assets/css/main.css",
@@ -120,5 +122,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "0edf2d96-1f25-40a2-8839-2ea2d27bf547"
   }
 }

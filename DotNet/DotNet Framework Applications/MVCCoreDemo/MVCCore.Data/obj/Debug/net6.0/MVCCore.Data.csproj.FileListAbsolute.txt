@@ -1,0 +1,15 @@
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\bin\Debug\net6.0\MVCCore.Data.deps.json
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\bin\Debug\net6.0\MVCCore.Data.runtimeconfig.json
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\bin\Debug\net6.0\MVCCore.Data.dll
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\bin\Debug\net6.0\MVCCore.Data.pdb
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.csproj.AssemblyReference.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.AssemblyInfoInputs.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.AssemblyInfo.cs
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.sourcelink.json
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.dll
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\refint\MVCCore.Data.dll
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.pdb
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\MVCCore.Data.genruntimeconfig.cache
+D:\Documents\Github\Learn-At-Rise\DotNet\DotNet Framework Applications\MVCCoreDemo\MVCCore.Data\obj\Debug\net6.0\ref\MVCCore.Data.dll
