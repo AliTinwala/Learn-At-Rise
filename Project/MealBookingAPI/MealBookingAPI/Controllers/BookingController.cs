@@ -60,25 +60,21 @@ namespace MealBookingAPI.Application.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBooking(int id,[FromBody] Booking booking)
         {
-            if(!ModelState.IsValid || id != booking.Id)
+            try
             {
-                return BadRequest("Booking id MISMATCH");
+                if (id != booking.Id)
+                    return BadRequest("Booking id mismatch");
+
+                var bookingToUpdate = await _repository.GetByIdAsync(id);
+
+                if (bookingToUpdate == null)
+                    return NotFound($"Booking with Id = {id} not found");
+
+                return await _repository
             }
-            else
+            catch(Exception)
             {
-                var update = await _repository.GetByIdAsync(id);
-                if(update == null)
-                {
-                    return NotFound($"Employee with Id = {id} not found");
-                }
-                if (await _repository.UpdateAsync(booking))
-                {
-                    return Ok();
-                }
-                else
-                {
-                    return BadRequest();
-                }
+                return BadRequest();
             }
         }
     }

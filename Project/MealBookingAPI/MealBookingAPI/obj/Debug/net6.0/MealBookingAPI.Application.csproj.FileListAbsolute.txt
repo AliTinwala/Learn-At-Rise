@@ -72,3 +72,4 @@ D:\Documents\Github\Learn-At-Rise\Project\MealBookingAPI\MealBookingAPI\bin\Debu
 D:\Documents\Github\Learn-At-Rise\Project\MealBookingAPI\MealBookingAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Documents\Github\Learn-At-Rise\Project\MealBookingAPI\MealBookingAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Documents\Github\Learn-At-Rise\Project\MealBookingAPI\MealBookingAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Documents\Github\Learn-At-Rise\Project\MealBookingAPI\MealBookingAPI\obj\Debug\net6.0\MealBookingAPI.Application.MvcApplicationPartsAssemblyInfo.cs
