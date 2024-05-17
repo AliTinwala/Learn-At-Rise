@@ -6,13 +6,18 @@ import { Router } from '@angular/router';
   templateUrl: './login.component.html',
   styleUrls: ['./login.component.css']
 })
-export class LoginComponent {
-  router: any;
-  
-  login(): void
+
+export class LoginComponent 
+{
+  formData = {
+    
+  };
+  constructor(private router: Router) {}
+
+  onLogin()
   {
-     this.router.navigateByUrl('/calendar');
+    console.log('Form submitted');
+    this.router.navigateByUrl('calendar');
   }
 }
-
 

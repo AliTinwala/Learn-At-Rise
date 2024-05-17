@@ -1,20 +1,21 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { BookingComponent } from './booking/booking.component';
+import { SharedModule } from '../shared/shared.module';
 import { CalendarComponent } from './calendar/calendar.component';
-import { RouterModule } from '@angular/router';
-import { UserAuthModule } from '../user-auth/user-auth.module';
-
+import { AppRoutingModule } from '../app-routing.module';
 @NgModule({
   declarations: [
-    CalendarComponent
+    BookingComponent,
+    CalendarComponent,
   ],
   imports: [
-    CommonModule,
-    RouterModule,
-    UserAuthModule
+    SharedModule,
+    AppRoutingModule
   ],
+  providers: [],
   exports: [
-    CalendarComponent
+    BookingComponent,
+    CalendarComponent,
   ]
 })
 export class HomeModule { }

@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'MealBookingSystem';
+
+  showHeader:boolean = false;
+  showFooter:boolean = false;
 }
