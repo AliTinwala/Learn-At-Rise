@@ -29,4 +29,8 @@ export class BookingService {
   {
     return this.myHttp.delete(`${this.bookingUrl}/${Id}`);
   }
+  getBookingExists(date: string): Observable<boolean>
+  {
+    return this.myHttp.get<boolean>(`${this.bookingUrl}/exists/${date}`);
+  }
 }

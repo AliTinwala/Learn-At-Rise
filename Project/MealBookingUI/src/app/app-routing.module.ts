@@ -21,4 +21,7 @@ export class AppRoutingModule { }
 export const ArrayOfComponents = 
 [
   ViewBookingComponent,
+  AddBookingComponent,
+  UpdateBookingComponent,
+  ViewCalendarComponent
 ]
