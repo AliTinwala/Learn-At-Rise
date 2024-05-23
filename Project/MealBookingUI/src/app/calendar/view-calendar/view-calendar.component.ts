@@ -1,8 +1,8 @@
-import { Component,OnInit } from '@angular/core';
-import { NativeDateAdapter } from '@angular/material/core';
-import { DatePipe } from '@angular/common';
+import { Component,OnInit, TemplateRef } from '@angular/core';
+import { DateAdapter, NativeDateAdapter } from '@angular/material/core';
+import { DatePipe, NgIfContext } from '@angular/common';
 import { BookingService } from 'src/app/shared/booking/booking.service';
-import { MatDatepickerInputEvent } from '@angular/material/datepicker';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-view-calendar',
@@ -10,15 +10,29 @@ import { MatDatepickerInputEvent } from '@angular/material/datepicker';
   styleUrls: ['./view-calendar.component.css'],
   providers: [NativeDateAdapter,DatePipe]
 })
-export class ViewCalendarComponent{
+export class ViewCalendarComponent implements OnInit{
   
   selectedDate: Date | null = null;
+  user_id: number = 0;
+  bookedDates$: Date[] = [];
   
-  constructor(public bookingService: BookingService,private datePipe: DatePipe){ }
+  constructor(public bookingService: BookingService,private datePipe: DatePipe, private dateAdapter: DateAdapter<Date>){ }
 
-  onDateChange(event: MatDatepickerInputEvent<Date>): void 
+  ngOnInit(): void 
   {
-    this.selectedDate = event.value;
-    console.log('Selected date: ', this.selectedDate); 
+        
   }
+
+  onDateChange(event: any): void 
+  {
+    if (event) 
+    {
+      this.selectedDate = new Date(event);
+    } 
+    else 
+    {
+      console.error('Invalid event or value:', event);
+    }
+  }
+
 }

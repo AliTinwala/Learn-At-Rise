@@ -19,3 +19,7 @@ mat-calendar
 {
     padding-bottom: 40px;
 }
+.booked-dates {
+    background: yellow;
+    border-radius: 50%;
+  }

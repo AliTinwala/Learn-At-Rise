@@ -1,7 +1,7 @@
 import { HttpClient} from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Booking } from './booking.model';
-import { Observable } from 'rxjs';
+import { Observable, catchError } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -29,8 +29,8 @@ export class BookingService {
   {
     return this.myHttp.delete(`${this.bookingUrl}/${Id}`);
   }
-  getBookingExists(date: string): Observable<boolean>
+  getBookingDates(user_id: number): Observable<{ dates: string[] }>
   {
-    return this.myHttp.get<boolean>(`${this.bookingUrl}/exists/${date}`);
+    return this.myHttp.get<{ dates: string[] }>(`${this.bookingUrl}/${user_id}`);
   }
 }
