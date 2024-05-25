@@ -10,8 +10,8 @@ export class ViewBookingComponent implements OnInit{
   constructor(public bookingService: BookingService) { }
   dataSource: any = [];
   displayedColumns: string[] = ['Booking Type', 'Booking Date', 'Booking For Date'];
-  ngOnInit(): void {
-    this.bookingService.getBookings().subscribe(data =>
+  async ngOnInit(): Promise<void> {
+    (await this.bookingService.getBookings()).subscribe(data =>
     {
       this.dataSource = data;
     });

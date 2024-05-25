@@ -19,7 +19,10 @@ mat-calendar
 {
     padding-bottom: 40px;
 }
-.booked-dates {
-    background: yellow;
-    border-radius: 50%;
-  }
+::ng-deep.mat-calendar-body-active > .mat-calendar-body-today {
+    color: white;
+    background-color: red;
+}
+::ng-deep.booking-dates {
+    background-color: yellow;
+}
