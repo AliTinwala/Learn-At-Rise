@@ -19,17 +19,17 @@ export class BookingService {
   }
   updateBooking()
   {
-    return this.myHttp.put(`${this.bookingUrl}/${this.bookingData.id}`,this.bookingData);
+    return this.myHttp.put(`${this.bookingUrl}/${this.bookingData.bookingId}`,this.bookingData);
   }
   async getBookings(): Promise<Observable<Booking[]>>
   {
     return await this.myHttp.get<Booking[]>(this.bookingUrl);
   }
-  deleteBooking(Id:number)
+  deleteBooking(userId:string)
   {
-    return this.myHttp.delete(`${this.bookingUrl}/${Id}`);
+    return this.myHttp.delete(`${this.bookingUrl}/${userId}`);
   }
-  getBookedDates(user_id: number): Observable<Date[]>
+  getBookedDates(user_id: string): Observable<Date[]>
   {
     return this.myHttp.get<Date[]>(`${this.bookingUrl}/${user_id}`);
   }

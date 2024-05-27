@@ -1,4 +1,4 @@
-import { Component,OnInit } from '@angular/core';
+import { Component,OnChanges,OnInit, SimpleChanges } from '@angular/core';
 import { DateAdapter, NativeDateAdapter } from '@angular/material/core';
 import { DatePipe } from '@angular/common';
 import { BookingService } from 'src/app/shared/booking/booking.service';
@@ -11,44 +11,78 @@ import {MatCalendarCellClassFunction, MatCalendarCellCssClasses} from '@angular/
   styleUrls: ['./view-calendar.component.css'],
   providers: [NativeDateAdapter,DatePipe]
 })
-export class ViewCalendarComponent implements OnInit{
+export class ViewCalendarComponent implements OnInit{ 
   selectedDate: Date | null = null;
   mealBooked: string = '';
-  user_id: number = 0;
+  userId: string="D49B5370-12E4-4ABA-A21D-D5FBCCD00F3E";
   bookedDates$: Observable<Date[]> | Date[] = [];
   isBooked: boolean = false;
   myClass: string = '';
+  cssClass: string = "";
   
   constructor(public bookingService: BookingService,public datePipe: DatePipe, public dateAdapter: DateAdapter<Date>){ }
+  
 
   ngOnInit(): void 
   {
-    this.fetchBookedDates();
-  }
-
-  dateClass() {
-    return (date:Date): MatCalendarCellCssClasses => {
-      for(i=0;i<)
-      if(date === ){
-        return 'booking-dates';
-      }
-      else{
-        return '';
-      }
-    };
+    console.log("ngoninit");
+    this.bookedDates$ = this.fetchBookedDates();
   }
 
   fetchBookedDates(): Observable<Date[]> | Date [] {
-    this.bookingService.getBookedDates(this.user_id)
+    console.log('fetchBookedDates');
+    this.bookingService.getBookedDates(this.userId)
       .subscribe(response => {
         this.bookedDates$ = response;
       }, error => {
-        // Handle error gracefully
         console.error('Error fetching booked dates:', error);
-        // Optionally display an error message to the user
       });
       return this.bookedDates$;
   }
+
+  dateClass = (date:Date): MatCalendarCellCssClasses => 
+  {
+    console.log(this.bookedDates$);
+    const formatDate = this.datePipe.transform(date,'yyyy-MM-dd');
+    if( this.bookedDates$ instanceof Observable)
+    {
+      //Do nothing
+    }
+    else
+    {
+      console.log(this.bookedDates$);
+      for (const date of this.bookedDates$) 
+        {
+          
+          const formattedDate = this.datePipe.transform(date, 'yyyy-MM-dd');
+          console.log(formatDate,formattedDate);
+          if (formattedDate === formatDate) 
+          {
+            this.isBooked = true;
+            console.log('true');
+            break;
+          }
+          else if(formattedDate != formatDate)
+          {
+            this.isBooked = false;
+            console.log('false');
+          } 
+      }
+      if(this.isBooked === true)
+      {
+        this.cssClass = 'booking-dates';
+        console.log('booking date');
+      }
+      else if(this.isBooked === false)
+      {
+        this.cssClass = '';
+        // console.log('NO no booking date');
+      }
+    }
+    return this.cssClass;
+  }
+
+  
 
   onDateChange(event: any): string  {
     if(event) 
@@ -57,29 +91,7 @@ export class ViewCalendarComponent implements OnInit{
       const formatDate = this.datePipe.transform(this.selectedDate,'yyyy-MM-dd');
       if( this.bookedDates$ instanceof Observable)
       {
-        this.bookedDates$.pipe(
-          map(dates => dates.map(date => this.datePipe.transform(date,'yyyyMM-dd')))
-        )
-        .subscribe(formattedBookedDates => {
-          for (const formattedDate of formattedBookedDates) {
-            if (formattedDate === formatDate) {
-              this.isBooked = true;
-              break;
-            }
-            else if(formattedDate != formatDate)
-            {
-              this.isBooked = false;
-            } 
-          }
-        });
-        if(this.isBooked === true)
-        {
-          this.mealBooked = 'Meal is booked'; 
-        }
-        else if(this.isBooked === false)
-        {
-          this.mealBooked = 'Meal not found';
-        }
+        //Do nothing
       }
       else
       {

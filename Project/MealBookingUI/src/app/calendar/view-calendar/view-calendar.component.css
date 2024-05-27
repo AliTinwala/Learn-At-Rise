@@ -21,8 +21,10 @@ mat-calendar
 }
 ::ng-deep.mat-calendar-body-active > .mat-calendar-body-today {
     color: white;
-    background-color: red;
+    background-color: #3F51B5;
 }
-::ng-deep.booking-dates {
+::ng-deepbutton.booking-dates {
     background-color: yellow;
+    color: white; 
+    border-radius: 50px;
 }

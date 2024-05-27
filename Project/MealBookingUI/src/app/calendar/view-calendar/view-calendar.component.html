@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <mat-calendar startView="month" [dateClass]="dateClass()" [(selected)]="selectedDate" (selectedChange)="onDateChange($event)"></mat-calendar>
+                    <mat-calendar startView="month" [dateClass]="dateClass" [(selected)]="selectedDate" (selectedChange)="onDateChange($event)"></mat-calendar>
                     <div class="spacer"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -20,7 +20,7 @@
                             <div class="col-md-6">
                                 <mat-card>
                                     <mat-card-content>
-                                        <p> Selected Date: {{ selectedDate | date }} </p>
+                                        <p> Selected Date: {{ selectedDate | date: 'dd MMMM, yyyy' }} </p>
                                         <p> {{ mealBooked }} </p>
                                     </mat-card-content>
                                 </mat-card>

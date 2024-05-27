@@ -1,9 +1,11 @@
-export class Booking {
-    id:number=0;
-    user_Id:number=0;
-    coupon_Id:number=0;
-    booking_Type:string="";
-    booking_Date_Time:Date=new Date;
-    booking_For_Date_Time:Date = new Date;
+export class Booking 
+{
+    bookingId:string="";
+    userId:string="";
+    couponId:string="";
+    mealType:string="";
+    bookingDate:Date=new Date;
+    bookingForDate:Date = new Date;
+    isCancelled:string = "";
 }
 

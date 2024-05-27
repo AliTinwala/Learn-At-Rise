@@ -14,15 +14,15 @@
         <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
             <ng-container matColumnDef="Booking Type">
               <th mat-header-cell *matHeaderCellDef> Booking Type </th>
-              <td mat-cell *matCellDef="let element"> {{element.booking_Type}} </td>
+              <td mat-cell *matCellDef="let element"> {{element.mealType}} </td>
             </ng-container>
             <ng-container matColumnDef="Booking Date">
               <th mat-header-cell *matHeaderCellDef> Booking Date </th>
-              <td mat-cell *matCellDef="let element"> {{element.booking_Date_Time | date:'dd MMMM, yyyy, (EEEE)'}} </td>
+              <td mat-cell *matCellDef="let element"> {{element.bookingDate | date:'dd MMMM, yyyy, (EEEE)'}} </td>
             </ng-container>
             <ng-container matColumnDef="Booking For Date">
               <th mat-header-cell *matHeaderCellDef> Booking For Date </th>
-              <td mat-cell *matCellDef="let element"> {{element.booking_For_Date_Time | date: 'dd MMMM, yyyy, (EEEE)'}} </td>
+              <td mat-cell *matCellDef="let element"> {{element.bookingForDate | date: 'dd MMMM, yyyy, (EEEE)'}} </td>
             </ng-container>
             <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
             <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
