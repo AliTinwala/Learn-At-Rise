@@ -14,7 +14,7 @@ import {MatCalendarCellClassFunction, MatCalendarCellCssClasses} from '@angular/
 export class ViewCalendarComponent implements OnInit{ 
   selectedDate: Date | null = null;
   mealBooked: string = '';
-  userId: string="D49B5370-12E4-4ABA-A21D-D5FBCCD00F3E";
+  userId: string="3F28A14B-1A18-4A96-6D5F-08DC7FA558D2";
   bookedDates$: Observable<Date[]> | Date[] = [];
   isBooked: boolean = false;
   myClass: string = '';

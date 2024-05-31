@@ -16,6 +16,8 @@ import { MatNativeDateModule } from '@angular/material/core';
 import { MatCardModule } from '@angular/material/card';
 import {MatGridListModule} from '@angular/material/grid-list';
 import {MatRadioModule} from '@angular/material/radio';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatListModule } from '@angular/material/list';
 
 const modules = [
   CommonModule,
@@ -35,10 +37,13 @@ const modules = [
   MatNativeDateModule,
   MatCardModule,
   MatGridListModule,
-  MatRadioModule
+  MatRadioModule,
+  MatSidenavModule,
+  MatListModule,
 ]
 @NgModule({
-  declarations: [ ],
+  declarations: [
+  ],
   imports: modules,
   exports: modules,
 })

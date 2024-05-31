@@ -9,6 +9,7 @@ import { Observable, catchError } from 'rxjs';
 export class BookingService {
 
   constructor(private myHttp:HttpClient) { }
+  
   bookingUrl:string = "https://localhost:7108/api/Booking";
   bookingList:Booking[]=[];
   bookingData:Booking = new Booking();
