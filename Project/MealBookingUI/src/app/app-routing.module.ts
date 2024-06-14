@@ -7,8 +7,9 @@ import { SidenavComponent } from './shared/sidenav/sidenav.component';
 import { NotiificationsComponent } from './user/notiifications/notiifications.component';
 
 const routes: Routes = [
+  { path: '', component: ViewCalendarComponent},
+  { path: 'view-calendar', component: ViewCalendarComponent},
   { path: 'view-booking', component: ViewBookingComponent},
-  { path: 'view-calendar', component:ViewCalendarComponent},
   { path: 'notifications', component:NotiificationsComponent}
 ];
 
@@ -22,5 +23,6 @@ export const ArrayOfComponents =
   ViewBookingComponent,
   AddBookingComponent,
   ViewCalendarComponent,
-  SidenavComponent
+  SidenavComponent,
+  NotiificationsComponent
 ]
