@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ali's PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Alis PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Extension Method\\Extension Method.csproj",
+      "projectUniqueName": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Extension Method\\Extension Method.csproj",
       "projectName": "Extension Method",
-      "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Extension Method\\Extension Method.csproj",
-      "packagesPath": "C:\\Users\\Ali's PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Extension Method\\obj\\",
+      "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Extension Method\\Extension Method.csproj",
+      "packagesPath": "C:\\Users\\Alis PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Extension Method\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ali's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alis PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Lib Ext Method\\Class Lib Ext Method.csproj": {
-              "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Lib Ext Method\\Class Lib Ext Method.csproj"
+            "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Lib Ext Method\\Class Lib Ext Method.csproj": {
+              "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Lib Ext Method\\Class Lib Ext Method.csproj"
             }
           }
         }

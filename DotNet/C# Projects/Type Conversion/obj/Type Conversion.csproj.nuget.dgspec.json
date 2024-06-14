@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj": {}
+    "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj": {
+    "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj",
         "projectName": "Type Conversion",
-        "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj",
-        "packagesPath": "C:\\Users\\Ali's PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Type Conversion\\obj\\",
+        "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Type Conversion\\Type Conversion.csproj",
+        "packagesPath": "C:\\Users\\Alis PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Type Conversion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ali's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alis PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

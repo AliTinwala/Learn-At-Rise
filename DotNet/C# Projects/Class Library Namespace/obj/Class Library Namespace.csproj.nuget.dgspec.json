@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj": {}
+    "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj": {
+    "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj",
         "projectName": "Class Library Namespace",
-        "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj",
-        "packagesPath": "C:\\Users\\Ali's PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library Namespace\\obj\\",
+        "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library Namespace\\Class Library Namespace.csproj",
+        "packagesPath": "C:\\Users\\Alis PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library Namespace\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ali's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alis PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj": {
-                "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj"
+              "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj": {
+                "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj"
               }
             }
           }
@@ -68,17 +72,21 @@
         }
       }
     },
-    "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj": {
+    "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj",
         "projectName": "Class Library",
-        "projectPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj",
-        "packagesPath": "C:\\Users\\Ali's PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\C# Projects\\Class Library\\obj\\",
+        "projectPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\Class Library.csproj",
+        "packagesPath": "C:\\Users\\Alis PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Github\\Learn-At-Rise\\DotNet\\C# Projects\\Class Library\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ali's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alis PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
